@@ -7,7 +7,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=libaruipioled
-PKG_REV:=4119148
+PKG_REV:=master
 PKG_VERSION:=0.1.2
 PKG_RELEASE:=4
 
