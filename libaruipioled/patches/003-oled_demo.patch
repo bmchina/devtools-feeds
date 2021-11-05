@@ -10,7 +10,8 @@ index 10085d8..a70d513 100644
 +#ifdef OPENWRT
 +int sleep_divisor = 16 ;
 +#else
- int sleep_divisor = 1 ;
+-int sleep_divisor = 1 ;
++int sleep_divisor = 16 ;
 +#endif
  	
  // default options values
